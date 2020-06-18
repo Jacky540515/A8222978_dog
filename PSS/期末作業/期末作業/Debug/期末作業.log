@@ -1,0 +1,5 @@
+﻿  PSS.cpp
+  main.cpp
+C:\Users\ASUS\source\repos\期末作業\期末作業\main.cpp(10,15): warning C4244: '引數': 將 'time_t' 轉換為 'unsigned int'，由於類型不同，可能導致資料遺失
+  正在產生程式碼...
+  期末作業.vcxproj -> C:\Users\ASUS\source\repos\期末作業\Debug\期末作業.exe
